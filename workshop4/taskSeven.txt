@@ -1,0 +1,10 @@
+$count
+a
+b
+c
+d
+e
+$count
+h
+j
+k
